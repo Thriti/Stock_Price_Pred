@@ -1,5 +1,7 @@
 # Stock_Price_Pred
 
+https://stockpricepred-5cr9tap38zxwj2f3hfgzxf.streamlit.app/
+
 Welcome to the Stock Market Dashboard! This web application provides a comprehensive analysis of stock market data, including price movements, forecasts, moving averages, fundamental data, and related news. It is designed to help users gain insights into their favorite stocks and make informed investment decisions.
 
 Features
